@@ -201,6 +201,32 @@ nav a:hover
     transform: translateY(-5px);
 }
 
+
+#multimedia {
+    width: 80%;
+    margin: 40px auto 0 auto;
+    text-align: center;
+}
+
+#multimedia h2 {
+    font-size: 1.2rem;
+    margin: 20px 0 10px 0;
+    color: #333;
+}
+
+#multimedia video {
+    max-width: 550px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+#multimedia audio {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 400px;
+}
+
+
 #formulario-contacto
 {
     width: 60%;
