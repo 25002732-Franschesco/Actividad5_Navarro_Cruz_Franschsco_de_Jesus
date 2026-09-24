@@ -25,6 +25,7 @@ body
     height: 100vh;
     display: flex;
     flex-direction: column;   
+    text-align: justify;
 }
 
 .contenido
@@ -89,6 +90,7 @@ nav a:hover
 #sobre-mi, #proyectos, #contacto
 {
     padding: 70px 0px;
+    align-items: justify;
 }
 
 #sobre-mi h1, #proyectos h1, #contacto h1
@@ -102,6 +104,7 @@ nav a:hover
 #sobre-mi, #proyectos, #contacto
 {
     background-color: #ece7e7;
+    text-align: justify;
 }
 
 #vacaciones
