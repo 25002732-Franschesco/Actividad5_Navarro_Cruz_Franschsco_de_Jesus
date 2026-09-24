@@ -126,6 +126,11 @@ nav a:hover
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
+#vacaciones img:hover
+{
+    transform: translateY(-5px);
+}
+
 #vacaciones figcaption
 {
     width: 40%;
