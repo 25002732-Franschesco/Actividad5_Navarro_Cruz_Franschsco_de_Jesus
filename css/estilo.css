@@ -196,6 +196,11 @@ nav a:hover
     line-height: 1.5rem;
 }
 
+.proyecto-item img:hover
+{
+    transform: translateY(-5px);
+}
+
 #formulario-contacto
 {
     width: 60%;
