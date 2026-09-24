@@ -99,6 +99,11 @@ nav a:hover
     margin-bottom: 50px;
 }
 
+#sobre-mi
+{
+    background-color: #dcd9d9;
+}
+
 #vacaciones
 {
     width: 90%;
@@ -157,7 +162,7 @@ nav a:hover
     margin-top: 10px;
 }
 
-/* PROYECTOS */
+
 .proyecto-item
 {
     width: 90%;
