@@ -13,7 +13,7 @@ html
 body
 {
     font-size: 16px;
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #belleza
@@ -161,6 +161,7 @@ nav a:hover
 
 #servicios span
 {
+    font-family: 'Fira Code', monospace;
     font-size: 1.2rem;
     font-weight: bold;
 }
@@ -305,6 +306,7 @@ footer
 
 footer p
 {
+    font-family: 'Fira Code', monospace;
     color: #fff;
     font-size: 0.8rem;
 }
